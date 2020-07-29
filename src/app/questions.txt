@@ -1,0 +1,4 @@
+1. Coding problem
+
+a) Show all dinosaurs data in view
+b) Create an input to filter the dinosaurs data
